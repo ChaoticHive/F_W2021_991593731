@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "CovidLocal": "Server=(LocalDB)\\MSSQLLocalDB;Database=CovidDB;Trusted_Connection=Yes;"
+  }
+}
